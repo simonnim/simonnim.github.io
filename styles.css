@@ -6,12 +6,16 @@ body {
 #tables {
   background: green;
   border: 3px yellow solid;
-  padding-top: 10px;
+  padding-top: 50px;
   padding-left: 50px;
+  padding right: 100px;
+  padding-bottom: 50px;
+  margin-left: 100px;
 }
 
 img {
   padding-left: 100px;
+  margin-left: 100px;
 }
 
 h1 {
