@@ -1,3 +1,41 @@
 body {
-  background: blue;
+  background-image: url("http://assets.worldwildlife.org/photos/2325/images/hero_full/mountains-hero.jpg?1345838509");
+  z-index: -1
+}
+
+#tables {
+  background: green;
+  border: 3px yellow solid;
+  padding-top: 10px;
+  padding-left: 50px;
+}
+
+img {
+  padding-left: 100px;
+}
+
+h1 {
+  text-align: center;
+  color: red;
+}
+
+p {
+  color:red;
+  font-family: cursive;
+}
+
+h2 {
+  color: red;
+}
+
+ul li {
+  color: red;
+}
+
+a:hover {
+  background-color: yellow;
+}
+
+.label {
+  color: yellow;
 }
